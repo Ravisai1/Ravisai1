@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Ravisai karicharla
-- 👀 I’m interested in ...webdevelopment 
-- 🌱 I’m currently learning ...React
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...ravisai665@gmail.com
+👋 I'm a passionate software developer focused on Frontend development.  
+🔨 Working with JavaScript, HTML, CSS, and Angular.  
+🌱 Currently studying MCA and always eager to learn new technologies. 
+📫 How to reach me ...ravisai665@gmail.com
 
 <!---
 Ravisai1/Ravisai1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
